@@ -19,7 +19,7 @@ I specialize in converting complex business problems into production-grade AI so
 | **Languages** | Python (Pandas, Scikit-Learn, PySpark), SQL (PostgreSQL, Snowflake, BigQuery), R |
 | **AI & Machine Learning** | XGBoost, LLMs (GPT, Llama), RAG Architectures, Causal Inference, DBScan |
 | **Infrastructure** | Databricks, Docker, Git, CI/CD Pipelines |
-| **Business Intelligence** | Excel (VBA/Macros), Power BI, Mixpanel, Tableau |
+| **Business Intelligence** | Excel, Power BI, Mixpanel, Tableau |
 
 ---
 
