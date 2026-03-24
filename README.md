@@ -50,5 +50,4 @@ I believe that a model's value is defined by its impact on the bottom line.
 
 ## Let's Connect!
 * **LinkedIn:** [linkedin.com/in/minhpham1203/](https://www.linkedin.com/in/minhpham1203/)
-* **Email:** minhpham0312@gmail.com
 * **Based in:** Atlanta, GA (Open to US-East to US-Pacific Remote)
