@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 My Professional Mission
+## My Professional Mission
 I specialize in converting complex business problems into production-grade AI solutions. With over 6 years of experience in senior analysis and BI management, I don't just build models—I build strategic tools that optimize P&L and drive measurable growth.
 
 **Targeting Mid-to-High Level Data Science roles for February 2027.**
